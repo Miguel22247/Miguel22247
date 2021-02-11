@@ -7,6 +7,6 @@
 
 - 🔭 I’m currently working on ... C basic programs
 - 🌱 I’m currently learning ... C
-- 💬 Ask me about ... Everything
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/miguel-pacheco-5229131b5/) [Twitter](https://twitter.com/miguelpacheco_)
+- 💬 Ask me about ... Almost Everything
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/miguel-pacheco-5229131b5/) | [Twitter](https://twitter.com/miguelpacheco_)
 - ⚡ Fun fact: ... I love Apple Products!
