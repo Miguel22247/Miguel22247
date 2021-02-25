@@ -12,4 +12,5 @@
 - <ul>
 - <li>[Linkedin](https://www.linkedin.com/in/miguel-pacheco-5229131b5/)</li>
   - <li>[Twitter](https://twitter.com/miguelpacheco_)</li>
+  </ul>
 - ⚡ Fun fact: ... I love Apple Products!
