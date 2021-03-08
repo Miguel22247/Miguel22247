@@ -9,5 +9,5 @@
 - 🌱 I’m currently learning ... i don't know
 - 💬 Ask me about ... Almost Everything
 - 📫 How to reach me: ... 
-- 🌐 Social Media: [Linkedin](https://www.linkedin.com/in/miguel-pacheco-5229131b5/) | [Twitter](https://twitter.com/miguelpacheco_)
+- 🌐 Social Media: [Linkedin](https://www.linkedin.com/in/miguel-pacheco-5229131b5/) | [Twitter](https://twitter.com/miguelpacheco_) | [Instagram](https://www.instagram.com/_miguel.pacheco/)
 - ⚡ Fun fact: ... I love Apple Products!
