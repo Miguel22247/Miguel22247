@@ -8,8 +8,7 @@
   <br />
   <br />
   <br />
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel22247)]" />
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=6558042" />
+  <img src=" "/>
   <br />
   <br />
   <br />
