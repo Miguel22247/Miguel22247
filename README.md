@@ -5,7 +5,7 @@
     <a target="_blank" href="https://www.linkedin.com/in/miguel-pacheco-5229131b5/">Linkedin</a> •
     <a target="_blank" href="https://twitter.com/miguelpacheco_">Twitter</a>
   </p>
- <img src="https://github-readme-stats.vercel.app/api?username=Miguel22247&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Miguel22247&show_icons=true&line_height=45&theme=onedark&include_all_commits=true" />
   <img src="https://github-readme-stackoverflow.vercel.app/?userID=15132611" />
   <br />
   <br />
