@@ -7,7 +7,7 @@
   </p>
  <img src="https://github-readme-stats.vercel.app/api?username=Miguel22247&show_icons=true&line_height=45&theme=onedark&include_all_commits=true" />
   <img src="https://github-readme-stackoverflow.vercel.app/?userID=15132611" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel22247&layout=compact)](https://github.com/Miguel22247/holbertonschool-low_level_programming)" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel22247&layout=compact&theme=onedark)](https://github.com/Miguel22247/holbertonschool-low_level_programming)" />
   <br />
   <br />
   <br />
