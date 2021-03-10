@@ -6,9 +6,9 @@
     <a target="_blank" href="https://twitter.com/miguelpacheco_">Twitter</a>
   </p>
  <img src="https://github-readme-stats.vercel.app/api?username=Miguel22247&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=6558042" />
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=15132611" />
   <br />
   <br />
   <br />
-  <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
+  <img src="https://raw.githubusercontent.com/Miguel22247/Miguel22247/master/activity-profile.png" />
 </div>
