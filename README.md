@@ -10,5 +10,4 @@
   <br />
   <br />
   <br />
-  <img src="https://raw.githubusercontent.com/Miguel22247/Miguel22247/master/activity-profile.png" />
 </div>
