@@ -44,6 +44,6 @@ Hi, I'm Miguel Pacheco, a software engineer student.
 </a>    
 <a href="https://github.com/Miguel22247/Miguel22247.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel22247&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel22247&repo=Miguel22247.github.io&theme=material-palenight" />
 </a>
 
