@@ -6,7 +6,7 @@
 <a href="https://twitter.com/anuraghazru">
   <img align="left" alt="Miguel Pacheco | Twitter" width="21px" src="https://raw.githubusercontent.com/Miguel22247/Miguel22247/main/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
+<a href="Not Available at the moment">
   <img align="left" alt="Miguel's Discord" width="21px" src="https://raw.githubusercontent.com/Miguel22247/Miguel22247/main/assets/discord-round.svg" />
 </a>
 
