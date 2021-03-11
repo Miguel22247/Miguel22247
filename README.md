@@ -15,7 +15,6 @@
 
 Hi, I'm Miguel Pacheco, a software engineer student.
 
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/Miguel22247/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/Miguel22247/Miguel22247/issues)
 
 **Languages and Tools:**  
