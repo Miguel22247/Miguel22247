@@ -1,13 +1,13 @@
 ### Hi there, I'm [Miguel!] 👋
 
 <a href="https://codesandbox.io/u/Miguel22247">
-  <img align="left" alt="Miguel Pacheco | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Miguel22247/Miguel22247/master/assets/codesandbox.svg" />
+  <img align="left" alt="Miguel Pacheco | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Miguel22247/Miguel22247/main/assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Miguel Pacheco | Twitter" width="21px" src="https://raw.githubusercontent.com/Miguel22247/Miguel22247/master/assets/twitter.svg" />
+  <img align="left" alt="Miguel Pacheco | Twitter" width="21px" src="https://raw.githubusercontent.com/Miguel22247/Miguel22247/main/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Miguel's Discord" width="21px" src="https://raw.githubusercontent.com/Miguel22247/Miguel22247/master/assets/discord-round.svg" />
+  <img align="left" alt="Miguel's Discord" width="21px" src="https://raw.githubusercontent.com/Miguel22247/Miguel22247/main/assets/discord-round.svg" />
 </a>
 
 <br />
