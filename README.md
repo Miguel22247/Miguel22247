@@ -1,4 +1,4 @@
-### Hi there, I'm [Miguel!] 👋
+### Hi there, I'm Miguel! 👋
 
 <a href="https://codesandbox.io/u/Miguel22247">
   <img align="left" alt="Miguel Pacheco | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Miguel22247/Miguel22247/main/assets/codesandbox.svg" />
@@ -19,6 +19,7 @@ Hi, I'm Miguel Pacheco, a software engineer student.
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <!--- 
   if you have forked this to use on your profile, 
