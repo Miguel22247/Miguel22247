@@ -41,7 +41,6 @@ Hi, I'm Miguel Pacheco, a software engineer student.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel22247&repo=Miguel22247.github.io&theme=material-palenight" />
 </a>
- <img src="https://github-readme-stats.vercel.app/api?username=Miguel22247&show_icons=true&line_height=45&theme=material-palenight&include_all_commits=true" />
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=15132611" />
+  <img align= "center" src="https://github-readme-stackoverflow.vercel.app/?userID=15132611" />
 
 
