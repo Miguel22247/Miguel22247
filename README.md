@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Miguel Pacheco, a software engineer student.
+Hi, I'm Miguel Pacheco, a software engineer student, also i like web development and i'm a Shorcuts User.
 
 - 💬 Ask me about anything [here](https://github.com/Miguel22247/Miguel22247/issues)
 
