@@ -72,3 +72,19 @@ Here are some ideas to get you started:
 <p align="center">
   &nbsp; <a href="https://www.linkedin.com/in/miguel-pacheco-5229131b5/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="50" /></a>
 </p>
+
+<p align="center">
+  &nbsp; <a href="https://github.com/Miguel22247/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/8JQDgBE.png" width="50" /></a>
+</p>
+
+<p align="center">
+  &nbsp; <a href="https://www.linkedin.com/in/miguel-pacheco-5229131b5/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="50" /></a>
+</p>
+
+<p align="center">
+  &nbsp; <a href="https://www.linkedin.com/in/miguel-pacheco-5229131b5/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="50" /></a>
+</p>
+
+<p align="center">
+  &nbsp; <a href="https://www.linkedin.com/in/miguel-pacheco-5229131b5/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="50" /></a>
+</p>
