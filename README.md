@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Miguel22247&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Miguel's github stats" />
