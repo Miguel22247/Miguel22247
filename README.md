@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <h3>💻 About Me </h3>
 
 
-- 🎓 &nbsp; Studying computer programming and Economic History.
-- 🌱 &nbsp; Enthusiast in Programming, traveling.
-- 🔭 &nbsp; Problem-Solving skills & Desing Thinking experience.
+- 🎓 &nbsp; Studying computer programming.
+- 🌱 &nbsp; Enthusiast in Programming.
+- 🔭 &nbsp; Nothing at the moment.
 
 <h3>🛠 Tech Stack</h3>
 
