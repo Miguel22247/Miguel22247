@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - 💻 &nbsp; Python | C | Bash
 - 🌐 &nbsp; HTML | CSS | JavaScript
 -->
-- 🔧 &nbsp; Emacs | Visual Studio Code 
+- 🔧 &nbsp; Emacs | Visual Studio Code | Github
 <!--- 🛢 &nbsp; MySQL -->
 
 **Languages and Tools:**  
