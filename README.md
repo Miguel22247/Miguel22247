@@ -51,22 +51,23 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
-
+<p align="center">
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Miguel22247&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Miguel's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguel22247&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Miguel's github stats" />
 </br>
 
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel22247&layout=compact&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel22247&layout=compact&theme=material-palenight" />
 </br>
   
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel22247&repo=Miguel22247.github.io&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel22247&repo=Miguel22247.github.io&theme=material-palenight" />
 </br>
 
 <br>
-  <img align= "center" src="https://github-readme-stackoverflow.vercel.app/?userID=15132611" />
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=15132611" />
 </br>
+</p>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
