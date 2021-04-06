@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Miguel22247&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Miguel's github stats" />
 </br>
-
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel22247&layout=compact&theme=material-palenight" />
-</br>
   
 <br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel22247&repo=Miguel22247.github.io&theme=material-palenight" />
+</br>
+
+<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel22247&layout=compact&theme=material-palenight" />
 </br>
 
 <br>
