@@ -74,6 +74,6 @@ Here are some ideas to get you started:
 <p align="center">
   &nbsp; <a href="https://www.linkedin.com/in/miguel-pacheco-5229131b5/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
   &nbsp; <a href="https://github.com/Miguel22247/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/8JQDgBE.png" width="30" /></a>
-  &nbsp; <a href="https://www.linkedin.com/in/miguel-pacheco-5229131b5/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/OVJxfXV.png" width="30" /></a>
+  &nbsp; <a href="https://stackoverflow.com/users/15132611/miguel-pacheco" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/OVJxfXV.png" width="30" /></a>
   &nbsp; <a href="https://www.twitter.com/miguelpacheco_" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/GvNj4Cn.png" width="30" /></a>
 </p>
