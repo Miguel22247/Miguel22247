@@ -38,10 +38,9 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-<!---
+
 - 💻 &nbsp; Python | C | Bash
 - 🌐 &nbsp; HTML | CSS | JavaScript
--->
 - 🔧&nbsp; Emacs | Visual Studio Code | Github | CodeSandbox
 - 🛢 &nbsp; MySQL
 - 🤖 &nbsp; discord.js
