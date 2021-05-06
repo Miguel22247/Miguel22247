@@ -51,6 +51,10 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 <p align="center">
@@ -79,3 +83,7 @@ Here are some ideas to get you started:
   &nbsp; <a href="https://stackoverflow.com/users/15132611/miguel-pacheco" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/OVJxfXV.png" width="30" /></a>
   &nbsp; <a href="https://www.twitter.com/miguelpacheco_" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/GvNj4Cn.png" width="30" /></a>
 </p>
+
+
+
+⭐️ From [@Miguel22247](https://github.com/Miguel22247)
