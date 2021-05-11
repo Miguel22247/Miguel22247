@@ -1,90 +1,37 @@
-### Hi there, I'm Miguel! 👋
+![](https://github.com/bhaveshlohana/bhaveshlohana/raw/master/animated-name.gif)
 
-<a href="https://codesandbox.io/u/Miguel22247">
-  <img align="left" alt="Miguel Pacheco | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/miguelpacheco_">
-  <img align="left" alt="Miguel Pacheco | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="Not Available at the moment">
-  <img align="left" alt="Miguel's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+Hello there, I'm Bhavesh Lohana! I am currently completing my Bachelors in Computer Science. And when I am working, you'll find me reading a sci-fi novel.
 
-<br />
-<br />
+## Currently I'm:
 
-<!--
-**Miguel22247/Miguel22247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working on several AI/ML projects
+- Competitve Programming in JS, Python and C++
+- Starting UI/UX
+- Learning App Development
 
 
-<h3>💻 About Me </h3>
+## Languages I use:
 
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-- 🎓 &nbsp; Studying computer programming.
-- 🌱 &nbsp; Enthusiast in Programming.
-- 🔭 &nbsp; Nothing at the moment.
+## Technologies I know:
 
-<h3>🛠 Tech Stack</h3>
-
-
-- 💻 &nbsp; Python | C | Bash
-- 🌐 &nbsp; HTML | CSS | JavaScript
-- 📰 &nbsp; Adobe XD
-- 🔧 &nbsp; Emacs | Visual Studio Code | Github | CodeSandbox
-- 🛢  &nbsp; MySQL
-- 🤖 &nbsp; discord.js
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
-<p align="center">
-<br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel22247&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Miguel's github stats" />
-</br>
-  
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel22247&repo=Miguel22247.github.io&theme=material-palenight" />
-</br>
-
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel22247&layout=compact&theme=material-palenight" />
-</br>
-
-<br>
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=15132611" />
-</br>
-</p>
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-<p align="center">
-  &nbsp; <a href="https://www.linkedin.com/in/miguel-pacheco-5229131b5/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
-  &nbsp; <a href="https://github.com/Miguel22247/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/8JQDgBE.png" width="30" /></a>
-  &nbsp; <a href="https://stackoverflow.com/users/15132611/miguel-pacheco" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/OVJxfXV.png" width="30" /></a>
-  &nbsp; <a href="https://www.twitter.com/miguelpacheco_" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/GvNj4Cn.png" width="30" /></a>
-</p>
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/-Electron-000000?style=flat&logo=Electron&logoColor=FFFFFF)
 
 
 
-⭐️ From [@Miguel22247](https://github.com/Miguel22247)
-⭐️ Inspired by [CallmeMehdi](https://github.com/CallmeMehdi)
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=bhaveshlohana&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshlohana&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+
+---
+
+⭐️ From [bhaveshlohana](https://www.github.com/bhaveshlohana)
