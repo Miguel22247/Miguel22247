@@ -87,4 +87,3 @@ Here are some ideas to get you started:
 
 
 ⭐️ From [@Miguel22247](https://github.com/Miguel22247)
-⭐️ Inspired by [CallmeMehdi](https://github.com/CallmeMehdi)
