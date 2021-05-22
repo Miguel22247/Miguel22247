@@ -74,9 +74,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stackoverflow.vercel.app/?userID=15132611" />
 </br>
 </p>
-<p align="center">
-<h3> 🤝🏻 Connect with Me </h3>
-</p>
+
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
+
 <p align="center">
   &nbsp; <a href="https://www.linkedin.com/in/miguel-pacheco-5229131b5/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
   &nbsp; <a href="https://github.com/Miguel22247/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/8JQDgBE.png" width="30" /></a>
