@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 📰 &nbsp; Adobe XD
 - 🔧 &nbsp; Emacs | Visual Studio Code | Github | CodeSandbox
-- 🛢  &nbsp; MySQL
+- 🛢  &nbsp;  MySQL
 - 🤖 &nbsp; discord.js
 
 **Languages and Tools:**  
