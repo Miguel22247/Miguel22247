@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-pacheco-5229131b5/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel Pacheco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-pacheco-5229131b5/)
  [![Twitter](https://img.shields.io/badge/Twitter-@miguelpacheco_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/miguelpacheco_)
  [![Email](https://img.shields.io/badge/minipachru%40gmail.com-My%20personal%20mail%20(slow%20response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:minipachru@gmail.com)
 
