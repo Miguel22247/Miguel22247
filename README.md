@@ -78,12 +78,10 @@ Here are some ideas to get you started:
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-  &nbsp; <a href="https://www.linkedin.com/in/miguel-pacheco-5229131b5/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-pacheco-5229131b5/)
+ [![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/miguelpacheco_)
   &nbsp; <a href="https://github.com/Miguel22247/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/8JQDgBE.png" width="30" /></a>
   &nbsp; <a href="https://stackoverflow.com/users/15132611/miguel-pacheco" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/OVJxfXV.png" width="30" /></a>
-  &nbsp; <a href="https://www.twitter.com/miguelpacheco_" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/GvNj4Cn.png" width="30" /></a>
-</p>
-
 
 
 ⭐️ From [@Miguel22247](https://github.com/Miguel22247)
