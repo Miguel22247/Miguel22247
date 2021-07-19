@@ -1,83 +1,22 @@
-### Hi there, I'm Miguel! 👋
+<h1 align="center">Hi 👋, I'm Miguel</h1>
+<h3 align="center">A passionate frontend developer from Uruguay</h3>
 
-<a href="https://codesandbox.io/u/Miguel22247">
-  <img align="left" alt="Miguel Pacheco | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/miguelpacheco_">
-  <img align="left" alt="Miguel Pacheco | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="Not Available at the moment">
-  <img align="left" alt="Miguel's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguel22247&label=Profile%20views&color=0e75b6&style=flat" alt="miguel22247" /> </p>
 
-<br />
-<br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguel22247" alt="miguel22247" /></a> </p>
 
-<!--
-**Miguel22247/Miguel22247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/miguelpacheco_" target="blank"><img src="https://img.shields.io/twitter/follow/miguelpacheco_?logo=twitter&style=for-the-badge" alt="miguelpacheco_" /></a> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h3>💻 About Me </h3>
-
-
-- 🎓 &nbsp; Studying computer programming.
-- 🌱 &nbsp; Enthusiast in Programming.
-- 🔭 &nbsp; Nothing at the moment.
-
-<h3>🛠 Tech Stack</h3>
-
-
-- 💻 &nbsp; Python | C | Bash
-- 🌐 &nbsp; HTML | CSS | JavaScript
-- 📰 &nbsp; Adobe XD
-- 🔧 &nbsp; Emacs | Visual Studio Code | Github | CodeSandbox
-- 🛢  &nbsp;  MySQL
-- 🤖 &nbsp; discord.js
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
-<p align="center">
-<br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel22247&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Miguel's github stats" />
-</br>
-  
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel22247&repo=Miguel22247.github.io&theme=material-palenight" />
-</br>
-  
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel22247&layout=compact&theme=material-palenight" />
-</br>
-<br>
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=15132611" />
-</br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/miguelpacheco_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miguelpacheco_" height="30" width="40" /></a>
 </p>
 
-<h3 align="center"> 🤝🏻 Connect with Me </h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Pacheco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-pacheco-/)
-[![Twitter](https://img.shields.io/badge/Twitter-@miguelpacheco_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/miguelpacheco_)
-[![Email](https://img.shields.io/badge/minipachru%40gmail.com-My%20personal%20mail%20(slow%20response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:minipachru@gmail.com)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel22247&show_icons=true&locale=en&layout=compact" alt="miguel22247" /></p>
 
-⭐️ From [@Miguel22247](https://github.com/Miguel22247)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel22247&show_icons=true&locale=en" alt="miguel22247" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel22247&" alt="miguel22247" /></p>
