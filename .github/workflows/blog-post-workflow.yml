@@ -8,7 +8,6 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
       - uses: Miguel22247/blog-post-workflow@main
         with:
           feed_list: "https://medium.com/feed/@minipachru"
