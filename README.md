@@ -11,6 +11,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The story behind “MatchGame”](https://minipachru.medium.com/the-story-behind-matchgame-d038d5a8d1d1?source=rss-bdb34447e055------2)
+- [Postmortem](https://minipachru.medium.com/postmortem-e6da3359b6ea?source=rss-bdb34447e055------2)
+- [What’s the Big Deal? Specialization](https://minipachru.medium.com/whats-the-big-deal-specialization-bcb369951b15?source=rss-bdb34447e055------2)
+- [What happens when you type holbertonschool.com](https://minipachru.medium.com/what-happens-when-you-type-holbertonschool-com-6e8447742da8?source=rss-bdb34447e055------2)
+- [Internet of… what?](https://minipachru.medium.com/internet-of-what-19fc89ddfa87?source=rss-bdb34447e055------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
