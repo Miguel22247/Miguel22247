@@ -52,7 +52,7 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     <img src="assets/tools/adobeillustrator.svg" alt="illustrator" width="40" height="40"/>
   </a>
-  <a href="https://medium.com/@minipachru" target="blank">
+  <a href="https://code.visualstudio.com/" target="blank">
     <img src="assets/tools/visualstudiocode.svg" alt="VS Code" height="40" width="40" />
   </a>
 </p>
