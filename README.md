@@ -83,9 +83,7 @@
 </div>
 
 <h3 align="center">🎧Currently Listening to:</h3>
-<div align="center">
-  [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/htq6zduip5nwjat5h895m6p1e?si=60296c59a39f43b8)
-</div>
+[![Spotify](https://discord-github-taupe.vercel.app/api/spotify)](https://open.spotify.com/user/htq6zduip5nwjat5h895m6p1e)
 
 <h3 align="center">Stats</h3>
 <div align="center">
