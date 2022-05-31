@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Landing on a Front-End Developer Job
 
-- 🌱 I’m currently learning **Vue.js and other Frameworks**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **minipachru@gmail.com**
 
@@ -19,7 +19,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<div align="center">
   <a href="https://twitter.com/miguelpacheco_" target="blank">
     <img align="center" src="assets/contact/twitter.svg" alt="miguelpacheco_" height="30" width="40"/>
   </a>
@@ -35,11 +35,11 @@
   <a href="mailto:minipachru@gmail.com" target="blank">
     <img align="center" src="assets/contact/gmail.svg" alt="" height="30" width="40" />
   </a>
-</p>
+</div>
 <br>
 
 <h3 align="center">Tools</h3>
-<p align="center">
+<div align="center">
   <a href="https://www.figma.com/" target="_blank">
     <img src="assets/tools/figma.svg" alt="figma" width="40" height="40"/>
   </a>
@@ -55,10 +55,10 @@
   <a href="https://code.visualstudio.com/" target="blank">
     <img src="assets/tools/visualstudiocode.svg" alt="VS Code" height="40" width="40" />
   </a>
-</p>
+</div>
 
 <h3 align="center">Languages and Frameworks</h3>
-<p align="center">
+<div align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="assets/languages/html5.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -80,10 +80,15 @@
   <a href="https://vuetifyjs.com/en/" target="_blank">
     <img src="assets/frameworks/vuetify.svg" alt="vuetify" width="40" height="40"/>
   </a>
-</p>
+</div>
+
+<h3 align="center">🎧Currently Listening to:</h3>
+<div align="center">
+  [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/htq6zduip5nwjat5h895m6p1e?si=60296c59a39f43b8)
+</div>
 
 <h3 align="center">Stats</h3>
-<p align="center">
+<div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel22247&theme=dark" alt="miguel22247"/>
   <br>
   <br>
@@ -98,4 +103,4 @@
   <br>
     <img src="https://github-readme-stackoverflow.vercel.app/?userID=15132611" />
   </br>
-</p>
+</div>
