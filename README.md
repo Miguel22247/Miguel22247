@@ -82,8 +82,7 @@
   </a>
 </div>
 
-<h3 align="center">🎧Currently Listening to:</h3>
-[![Spotify](https://miguel22247.vercel.app/api/spotify)](https://open.spotify.com/user/htq6zduip5nwjat5h895m6p1e)
+
 
 <h3 align="center">Stats</h3>
 <div align="center">
