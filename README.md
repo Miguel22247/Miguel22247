@@ -86,8 +86,6 @@
 
 <h3 align="center">Stats</h3>
 <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguel22247&theme=dark" alt="miguel22247"/>
-  <br>
   <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Miguel22247&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Miguel's github stats"/>
   <br>
