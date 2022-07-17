@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Landing on a Front-End Developer Job
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js** and **React.js**
 
 - 📫 How to reach me **minipachru@gmail.com**
 
