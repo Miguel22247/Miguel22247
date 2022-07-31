@@ -39,7 +39,7 @@
 </div>
 <br />
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Tools that i use or i been work before with</h3>
 <div align="center">
   <a href="https://www.figma.com/" target="_blank">
     <img src="assets/tools/figma.svg" alt="figma" width="40" height="40"/>
@@ -56,11 +56,14 @@
   <a href="https://code.visualstudio.com/" target="blank">
     <img src="assets/tools/visualstudiocode.svg" alt="VS Code" height="40" width="40" />
   </a>
-  <a href="https://github.com" target="blank">
+  <a href="https://github.com/" target="blank">
     <img src="assets/tools/github.svg" alt="github" height="40" width="40" />
   </a>
-  <a href="https://slack.com" target="blank">
+  <a href="https://slack.com/" target="blank">
     <img src="assets/tools/slack.svg" alt="Slack" height="40" width="40" />
+  </a>
+  <a href="https://discord.com/" target="blank">
+    <img src="assets/tools/discord.svg" alt="Discord" height="40" width="40" />
   </a>
 </div>
 <br />
