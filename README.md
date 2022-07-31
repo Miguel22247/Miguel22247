@@ -31,10 +31,13 @@
     <img align="center" src="assets/contact/medium.svg" alt="@minipachru" height="30" width="40" />
   </a>
   <a href="mailto:minipachru@gmail.com" target="blank">
-    <img align="center" src="assets/contact/gmail.svg" alt="" height="30" width="40" />
+    <img align="center" src="assets/contact/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Miguel22247" target="blank">
+    <img align="center" src="assets/tools/github.svg" alt="github" height="40w" width="40" />
   </a>
 </div>
-<br>
+<br />
 
 <h3 align="center">Tools</h3>
 <div align="center">
@@ -53,8 +56,14 @@
   <a href="https://code.visualstudio.com/" target="blank">
     <img src="assets/tools/visualstudiocode.svg" alt="VS Code" height="40" width="40" />
   </a>
+  <a href="https://github.com" target="blank">
+    <img src="assets/tools/github.svg" alt="github" height="40" width="40" />
+  </a>
+  <a href="https://slack.com" target="blank">
+    <img src="assets/tools/slack.svg" alt="Slack" height="40" width="40" />
+  </a>
 </div>
-
+<br />
 <h3 align="center">Languages and Frameworks</h3>
 <div align="center">
   <a href="https://www.w3.org/html/" target="_blank">
@@ -77,6 +86,9 @@
   </a>
   <a href="https://vuetifyjs.com/en/" target="_blank">
     <img src="assets/frameworks/vuetify.svg" alt="vuetify" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="assets/frameworks/react-original.svg" alt="react" width="40" height="40"/>
   </a>
 </div>
 
