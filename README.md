@@ -65,6 +65,9 @@
   <a href="https://discord.com/" target="blank">
     <img src="assets/tools/discord.svg" alt="Discord" height="40" width="40" />
   </a>
+  <a href="https://discord.com/" target="blank">
+    <img src="assets/tools/notion.svg" alt="Notion" height="40" width="40" />
+  </a>
 </div>
 <br />
 <h3 align="center">Languages and Frameworks</h3>
