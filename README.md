@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 
-- 🔭 I’m currently Landing on a Front-End Developer Job
+- 🔭 I’m currently a Frontend Developer at Blast.gg
 
 - 🌱 I’m currently learning **Vue.js** and **React.js**
 
