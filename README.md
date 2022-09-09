@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a Frontend Developer at Blast.gg
 
-- 🌱 I’m currently learning **Vue.js** and **React.js**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **minipachru@gmail.com**
 
