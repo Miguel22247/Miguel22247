@@ -18,7 +18,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://twitter.com/miguelpacheco_" target="blank" style="text-decoration: none;" >
+  <a href="https://twitter.com/miguelpacheco_" target="blank">
     <img align="center" src="assets/contact/twitter.svg" alt="miguelpacheco_" height="30" width="40"/>
   </a>
   <a href="https://linkedin.com/in/miguel-pacheco-ruiz" target="blank">
