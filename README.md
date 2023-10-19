@@ -18,22 +18,22 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://twitter.com/miguelpacheco_" target="blank">
+  <a href="https://twitter.com/miguelpacheco_" target="blank" style="text-decoration:none">
     <img align="center" src="assets/contact/twitter.svg" alt="miguelpacheco_" height="30" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/miguel-pacheco-ruiz" target="blank">
+  <a href="https://linkedin.com/in/miguel-pacheco-ruiz" target="blank" style="text-decoration:none">
     <img align="center" src="assets/contact/linkedin.svg" alt="miguel-pacheco-ruiz" height="30" width="40"/>
   </a>
-  <a href="https://stackoverflow.com/users/209924" target="blank">
+  <a href="https://stackoverflow.com/users/209924" target="blank" style="text-decoration:none">
     <img align="center" src="assets/contact/stackoverflow.svg" alt="209924" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@minipachru" target="blank">
+  <a href="https://medium.com/@minipachru" target="blank" style="text-decoration:none">
     <img align="center" src="assets/contact/medium.svg" alt="@minipachru" height="30" width="40" />
   </a>
-  <a href="mailto:minipachru@gmail.com" target="blank">
+  <a href="mailto:minipachru@gmail.com" target="blank" style="text-decoration:none" >
     <img align="center" src="assets/contact/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
-  <a href="https://github.com/Miguel22247" target="blank">
+  <a href="https://github.com/Miguel22247" target="blank" style="text-decoration:none">
     <img align="center" src="assets/tools/github.svg" alt="github" height="40w" width="40" />
   </a>
 </div>
