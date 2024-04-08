@@ -39,7 +39,6 @@
   <a href="https://slack.com/" target="blank">
     <img src="assets/tools/slack.svg" alt="Slack" height="40" width="40" />
   </a>
----
 
 ## Technologies
 
