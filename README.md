@@ -44,6 +44,7 @@
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=swift)](https://skillicons.dev) (Currently Learning)
 
 ### Frameworks & Libraries
 [![Languages](https://skillicons.dev/icons?i=react,vue,tailwind,styledcomponents,vuetify)](https://skillicons.dev)
