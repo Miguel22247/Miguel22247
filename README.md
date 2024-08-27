@@ -1,10 +1,10 @@
 # Hi 👋, I'm Miguel
 
- **A passionate frontend developer from Uruguay**
+ **A frontend developer from Uruguay**
 
 - 🔭 I’m currently a Frontend Developer at Blast.gg
 
-- 🌱 I’m currently learning **React.js**, **React Native** and **Swift**
+- 🌱 I’m currently learning **React.js** and **React Native**
 
 - 📫 How to reach me **minipachru@gmail.com**
 
