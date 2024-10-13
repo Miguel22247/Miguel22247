@@ -2,7 +2,7 @@
 
  **A frontend developer from Uruguay**
 
-- 🔭 I’m currently a Frontend Developer at Blast.gg
+- 🔭 I’m currently a Frontend Developer at at Blast.gg and Volunteer Mod Tester at Connect Modding
 
 - 🌱 I’m currently learning **React.js** and **React Native**
 
