@@ -43,15 +43,14 @@
 ## Technologies
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![Languages](https://skillicons.dev/icons?i=swift)](https://skillicons.dev) (Currently learning)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,md)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 [![Languages](https://skillicons.dev/icons?i=react,vue,tailwind,styledcomponents,vuetify)](https://skillicons.dev)
 
 
 ### Tools, OS and platforms where I usually do my work
-[![Languages](https://skillicons.dev/icons?i=discord,figma,git,github,vscode,windows,apple)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=discord,figma,git,github,githubactions,vscode,windows,apple)](https://skillicons.dev)
 
 ---
 ## 📈 Statistics
