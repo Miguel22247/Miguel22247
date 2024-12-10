@@ -25,32 +25,18 @@
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/miguel-pacheco-ruiz)
 [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/209924)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:minipachru@gmail.com)
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/Miguel22247)
-
-## Tools that I use or I have been working before with them
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
-[![Adobe XD](https://skillicons.dev/icons?i=xd)](https://www.adobe.com/products/xd.html)
-[![Adobe Photoshop](https://skillicons.dev/icons?i=ps)](https://www.photoshop.com/en)
-[![Adobe Illustrator](https://skillicons.dev/icons?i=ai)](https://www.adobe.com/in/products/illustrator.html)
-[![Figma](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com)
-[![Notion](https://skillicons.dev/icons?i=notion)](https://notion.so/)
-  <a href="https://slack.com/" target="blank">
-    <img src="assets/tools/slack.svg" alt="Slack" height="40" width="40" />
-  </a>
 
 ## Technologies
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=js,html,css,md)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,md)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 [![Languages](https://skillicons.dev/icons?i=react,vue,tailwind,styledcomponents,vuetify)](https://skillicons.dev)
 
 
 ### Tools, OS and platforms where I usually do my work
-[![Languages](https://skillicons.dev/icons?i=discord,figma,git,github,githubactions,vscode,windows,apple)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=discord,figma,git,github,githubactions,xd,ps,ai,notion,vscode,windows,apple)](https://skillicons.dev)
 
 ---
 ## 📈 Statistics
