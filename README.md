@@ -2,7 +2,7 @@
 
  **A frontend developer from Uruguay**
 
-- 🔭 I’m a Former Frontend Developer at at Blast.gg and Volunteer Mod Tester at Connect Modding
+- 🔭 I’m a Frontend Developer with 2+ years of Experience and Volunteer QA Tester at Connect Modding
 
 - 🌱 I’m currently learning **React.js** and **React Native**
 
