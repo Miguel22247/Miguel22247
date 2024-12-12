@@ -23,8 +23,8 @@
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/miguelpacheco_)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/miguel-pacheco-ruiz)
-<!-- [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/209924) -->
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:minipachru@gmail.com)
+<!-- [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/209924) -->
 
 ## Technologies
 
